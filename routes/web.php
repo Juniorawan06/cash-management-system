@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('login');
 });
 
-Route::view("forgot-password",'/forgot-password')->name('forgot-passward');
+// Route::view("forgot-password",'/forgot-password')->name('forgot-passward');

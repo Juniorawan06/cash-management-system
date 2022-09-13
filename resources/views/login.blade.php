@@ -41,7 +41,7 @@
                     <p class="forgot">
                         Forgotten your Password ?
                     </p>
-                    <a class="forgot-link" href="{{ route('forgot-passward') }}">
+                    <a class="forgot-link" href="#">
                         Click here.
                     </a>
                 </div>
